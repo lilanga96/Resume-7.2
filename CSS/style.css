@@ -1,0 +1,13 @@
+.parent {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    font-family: 'montseratt', sans-serif;
+
+}
+
+.parent {
+    background-image: url(./);
+}
